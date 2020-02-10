@@ -12,6 +12,7 @@ class GamesController < ApplicationController
         @test_array << letter
       else
         @test_array << 'you lose'
+        # "hello"
       end
     end
   end
