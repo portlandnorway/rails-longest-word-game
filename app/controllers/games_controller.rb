@@ -13,6 +13,7 @@ class GamesController < ApplicationController
       else
         @test_array << 'you lose'
         # "hello"
+        # another note
       end
     end
   end
